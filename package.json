@@ -1,0 +1,14 @@
+{
+  "name": "project-signup",
+  "version": "1.0.0",
+  "description": "Odin Project project for intermediate HTML + CSS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charles Frye",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
